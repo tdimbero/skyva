@@ -1,6 +1,6 @@
-import 'package:amberjack_template/globalsAndConstants.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:skyva/globalsAndConstants.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 Column helpTile(BuildContext context, String title, String contents) {
